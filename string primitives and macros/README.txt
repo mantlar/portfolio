@@ -1,0 +1,1 @@
+Implements functions to read integer values and write them to the console. Must have Irvine assembly library installed to function.
